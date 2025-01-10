@@ -1,0 +1,4 @@
+message:” DOR AND BARUH LOVE PIGS”
+maximum_msg_size:5
+window_size:5
+timeout:5
