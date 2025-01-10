@@ -29,7 +29,7 @@ Files
 How to Run
 	1.	Clone the Repository:
 
-git clone [https://github.com/your-repo-name.git](https://github.com/baruhifraimov/TCP-Like-Protocol-Simulation-with-Sliding-Window---Retransmissions.git)
+git clone https://github.com/baruhifraimov/TCP-Like-Protocol-Simulation-with-Sliding-Window---Retransmissions.git
 
 	2.	Start the Server:
 
@@ -50,7 +50,7 @@ Examples
 
 Example Input (input.txt):
 
-message:"DOR AND BARUH LOVE PIGS"
+message:"DOR AND BARUH LOVE TO CODE"
 maximum_msg_size:5
 window_size:5
 timeout:5
