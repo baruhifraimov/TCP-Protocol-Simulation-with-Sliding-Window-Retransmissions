@@ -29,9 +29,7 @@ Files
 How to Run
 	1.	Clone the Repository:
 
-git clone https://github.com/your-repo-name.git
-cd your-repo-name
-
+git clone [https://github.com/your-repo-name.git](https://github.com/baruhifraimov/TCP-Like-Protocol-Simulation-with-Sliding-Window---Retransmissions.git)
 
 	2.	Start the Server:
 
